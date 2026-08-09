@@ -20,7 +20,7 @@ The main highlight of the interface is the **interactive glowing orb** behind th
 
 ## 🖥️ Preview
 
-![Login Page](demo video/demoh.gif)
+![Login Page](demo_video/demoh.gif)
 
 ## 🎯 Concept
 
