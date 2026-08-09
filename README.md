@@ -20,7 +20,7 @@ The main highlight of the interface is the **interactive glowing orb** behind th
 
 ## 🖥️ Preview
 
-![Trust Net Login Page](./screenshot.png)
+![Login Page](demo video/demoh.gif)
 
 ## 🎯 Concept
 
